@@ -1,4 +1,0 @@
-Name:Jaya	Roll:1		Marks:55.0
-Name:Priya	Roll:2		Marks:80.0
-Name:Sneha	Roll:3		Marks:47.0
-
