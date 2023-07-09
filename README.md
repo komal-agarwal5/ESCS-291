@@ -12,3 +12,6 @@
 
 6)Sorting algorithms
 
+7)Structure based
+
+
