@@ -1,3 +1,3 @@
 Array programs
 
-<img src="arr.jpg" alt="arr">
+<img src="arr.png" alt="arr">
