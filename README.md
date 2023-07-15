@@ -14,4 +14,10 @@
 
 7)Structure based
 
+8)Ackermann Function
+
+9)Armstrong number
+
+10)
+
 
