@@ -1,3 +1,3 @@
 File handling programs list:
 
-<img src="file.png" alt="">
+<img src="file.png" alt="file">
