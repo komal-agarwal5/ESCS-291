@@ -1,3 +1,3 @@
 Loop programs list:
 
-<img src="loop.png" alt="">
+<img src="loop.png" alt="loop">
