@@ -1,23 +1,43 @@
-# C Programs List
+# C Programming
 
-1)Dynamic Memory Allocation
+### This repository contains C programs which I practised in my second semester for the ESCS-291 paper as a part of the 1st year B.Tech Curriculum
+<br>
 
-2)File Handling
+## How to Install
 
-3)Matrix related
+1. Create a ```C``` virtual environment. 
+2. Clone the repo ```git clone ``` or download the repository.
+3. Go to the cloned/downloaded directory ``` cd <folder_name> ```. 
+4. Run ``` pip3 install gcc ```.
+5. And now you can run the example scripts or create your own scripts.  
 
-4)Pattern based
+## Usage
+- To run any program (without <math.h>), run ``` gcc filename.c -o name```, where filename is the name of the file you are wanting to execute; name = output executable file.
+- Then type ``` ./name```, and then press Enter to execute successfully.
 
-5)Searching algorithms
+- To run any program (with <math.h>), run ``` gcc filename.c -lm```, where filename is the name of the file you are wanting to execute.
+- Then type ``` ./a.out```, and then press Enter to execute successfully.
 
-6)Sorting algorithms
+## FAQ
+- How to stop the script? Ctrl+C (control+C for Mac) 
+- For any other problems, feel free to raise an issue.
 
-7)Structure based
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
+Please make sure to update tests as appropriate.
 
-8)Ackermann Function
-
-9)Armstrong number
-
-10)
+## Where to contact ?
+Contact: [ ]
 
 
+## License
+
+
+
+## 🙋‍♂️ Support
+
+💙 If you like this project, do give it a ⭐ and share it with your friends!<br><br>
+
+---
+
+Made with ❤️ and C. <br><br>
