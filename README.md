@@ -31,7 +31,7 @@ Contact: [komal.agarwal0709@gmail.com]
 
 
 ## License
-
+[Unlicense ©️ Komal Agarwal](https://github.com/komal-agarwal5/C/blob/main/license)
 
 
 ## 🙋‍♂️ Support
