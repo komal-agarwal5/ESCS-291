@@ -6,7 +6,7 @@
 ## How to Install
 
 1. Create a ```C``` virtual environment. 
-2. Clone the repo ```git clone https://github.com/komal-agarwal5/C``` or download the repository.
+2. Clone the repo ```git clone https://github.com/komal-agarwal5/C.git``` or download the repository.
 3. Go to the cloned/downloaded directory ``` cd <folder_name> ```. 
 4. Run ``` pip3 install gcc ```.
 5. And now you can run the example scripts or create your own scripts.  
@@ -31,7 +31,7 @@ Contact: [komal.agarwal0709@gmail.com]
 
 
 ## License
-[Unlicense ©️ Komal Agarwal](https://github.com/komal-agarwal5/C/blob/main/license)
+[Unlicense ©️ Komal Agarwal](https://github.com/komal-agarwal5/C/blob/0cef763ddd44403967f2b08fb3f4eef2f9c247a9/LICENSE)
 
 
 ## 🙋‍♂️ Support
