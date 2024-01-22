@@ -1,4 +1,4 @@
-# C Programming
+# ESCS-291
 
 ### This repository contains C programs which I practised in my second semester for the ESCS-291 paper as a part of the 1st year B.Tech Curriculum
 <br>
